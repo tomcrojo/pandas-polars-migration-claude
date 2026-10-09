@@ -82,7 +82,7 @@ All following official [Polars best practices](https://docs.pola.rs/user-guide/m
 ```bash
 # Install the command
 curl -o ~/.claude/commands/pandas-polars-migration.md \
-  https://raw.githubusercontent.com/tommcrojo/pandas-polars-migration-claude/main/.claude/commands/pandas-polars-migration.md
+  https://raw.githubusercontent.com/tomcrojo/pandas-polars-migration-claude/main/.claude/commands/pandas-polars-migration.md
 
 # Install polars if needed
 pip install "polars>=1.0.0"
@@ -132,7 +132,7 @@ That's it. The command is now available in Claude Code.
 
 ### Quick Demo (for recording/testing)
 ```bash
-git clone https://github.com/tommcrojo/pandas-polars-migration-claude.git
+git clone https://github.com/tomcrojo/pandas-polars-migration-claude.git
 cd pandas-polars-migration-claude/examples/million-test
 
 # Generate ~1M rows + run migration
@@ -144,7 +144,7 @@ See [`examples/million-test/`](examples/million-test/) for the video script and 
 
 ### Full Example
 ```bash
-git clone https://github.com/tommcrojo/pandas-polars-migration-claude.git
+git clone https://github.com/tomcrojo/pandas-polars-migration-claude.git
 cd pandas-polars-migration-claude/examples
 
 # Generate sample data
@@ -184,10 +184,10 @@ MIT License - see [LICENSE](LICENSE) file.
 
 - [Polars Documentation](https://docs.pola.rs/)
 - [Claude Code](https://github.com/anthropics/claude-code)
-- [LinkedIn](https://linkedin.com/in/tommcrojo)
+- [LinkedIn](https://www.linkedin.com/in/tomcrojo/)
 
 ---
 
-**Built by [tommcrojo](https://github.com/tommcrojo)**
+**Built by [tomcrojo](https://github.com/tomcrojo)**
 
 *Try it before scaling infrastructure. You might not need that bigger instance.*
